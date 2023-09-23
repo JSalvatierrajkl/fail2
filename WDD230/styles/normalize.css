@@ -11,6 +11,9 @@ header {
     align-items: center;
     justify-items: center;
 }
+#headerimage {
+    height: 330px;
+}
 footer {
     text-align: center;
     padding: 10px;
@@ -67,6 +70,8 @@ nav li a {
     }
     #headerimage {
         height: 10em;
+        width: 10em;
+        
     }
     nav ul {
         max-width: 1000px;
