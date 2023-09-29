@@ -5,6 +5,10 @@ body {
     font-family: 'Rubik', sans-serif;
     font-size: 20px;
 }
+h1, h2, h3{
+    font-family:'PT Serif', serif;
+    font-size: 25px; 
+}
 header {
     padding: 20px;
     display: grid;
