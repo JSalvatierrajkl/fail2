@@ -29,4 +29,11 @@ section{
     max-width: 1500px;
     gap: 25px;
 }
-
+#menu{
+    display: none;
+}
+@media screen and (max-width: 1000px) {
+    #menu {
+        display: block;
+    }
+}
