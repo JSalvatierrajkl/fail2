@@ -14,18 +14,14 @@ main {
     margin: 0 auto;
     padding: 20px;
     display: grid;
-
+    text-align: justify;
     
-}
-
-section{
-    max-height: 1200px;
 }
 
 .image {
     display: flex;
     justify-content: center;
-    height: 85%;
+    height: 50%;
     max-width: 1500px;
     gap: 25px;
 }

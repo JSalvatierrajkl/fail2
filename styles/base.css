@@ -12,9 +12,7 @@ body {
 #headerimage {
     height: 330px;
 }
-#menu{
-    display: none;
-}
+
 main {
     max-width: 1500px;
     margin: 0 auto;
@@ -69,8 +67,7 @@ main {
       }
     
     #headerimage {
-        height: 7em;
-        width: 7em;
+        height: 10em;
     }
     
     main {
