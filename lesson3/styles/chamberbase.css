@@ -18,10 +18,14 @@ main {
     
 }
 
+section{
+    max-width: 1000px;
+}
+
 .image {
     display: flex;
     justify-content: center;
-    height: 50%;
+    height: 80%;
     max-width: 1500px;
     gap: 25px;
 }

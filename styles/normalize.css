@@ -54,6 +54,7 @@ nav li a {
 
 }
 @media screen and (max-width: 1000px) {
+
     .form {
         margin: 0 auto;
         margin-top: 50px;
