@@ -12,9 +12,7 @@ body {
 #headerimage {
     height: 330px;
 }
-#menu{
-    display: none;
-}
+
 main {
     max-width: 1500px;
     margin: 0 auto;
@@ -69,8 +67,7 @@ main {
       }
     
     #headerimage {
-        height: 7em;
-        width: 7em;
+        height: 10em;
     }
     
     main {
@@ -98,8 +95,12 @@ main {
         margin-bottom: 25px 
     }
     
+<<<<<<< HEAD
     /*small view navigation*/
     #menu {
         display: block;
     }
+=======
+
+>>>>>>> 7dff9827dce554f5a0f7bfd0a63ac7669e903a68
 }
